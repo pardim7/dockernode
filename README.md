@@ -1,4 +1,4 @@
-# dockernode
+# Using node.js inside a docker container
 A simple sample on how use node.js through docker containers
 
 First of all, you need to install docker, and if you are using Windows, make sure CPU Virtualization (BIOS) and Hyper-V are both enabled.
